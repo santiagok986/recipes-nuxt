@@ -1,0 +1,179 @@
+{
+    "data": {
+      "recipes": [
+        {
+          "name": "Cazuela dulce :)",
+          "duration": 15,
+          "servings": 2,
+          "img": "https://live.staticflickr.com/65535/51082652518_dfed9ede83_c.jpg",
+          "description": "Es como una cazuela pero con helado y chocolate",
+          "ingredients": [
+            "400 gramos de plátanos para el helado",
+            "Congul gratis, que bien!",
+            "100 gramos de fresas, que mal!",
+            "3 cucharadas soperas de cacao en polvo, que bien!",
+            "benzoato de potasio..............que mal!",
+            "Frutas de nuestra preferencia"
+          ],
+          "steps": [
+            "El platano se pela ... in consequuntur ullam, assumenda temporibus error quis vitae enim voluptates aut illo cupiditate minima, unde sint quia nostrum inventore saepe velit labore corrupti. Libero maxime non fuga illum cumque.",
+            "Voluptatibus quidem natus reprehenderit dicta officia dolor veritatis incidunt qui, sit nisi fuga soluta. Vero deleniti autem et adipisci nisi voluptates dolores eos ipsam! Consequuntur iure eos nam repudiandae vero?"
+          ],
+          "category": {
+            "name": "Postres"
+          }
+        },
+        {
+          "name": "Goulash",
+          "duration": 30,
+          "servings": 4,
+          "img": "https://cdn.pixabay.com/photo/2021/02/27/10/05/goulash-6054124_960_720.jpg",
+          "description": "El goulash o gulash o wulashhh es Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias maxime blanditiis laboriosam, esse sapiente ad iste dolores, beatae accusamus cum eaque ex quibusdam. Inventore quam quas vel officia porro asperiores?",
+          "ingredients": [
+            "1 kg de ….",
+            "4 dientes de dragón",
+            "2 cebollas grande o cebolletas",
+            "1 puerro",
+            "4 tomates grandes",
+            "1 ramita de perejil fresco",
+            "1 cucharada de comino en polvo",
+            "1 cucharada sopera de huevo de dodo"
+          ],
+          "steps": [
+            "Primero tienes nimi in consequuntur ullam, assumenda temporibus error quis vitae enim voluptates aut illo cupiditate minima, unde sint quia nostrum inventore saepe velit labore corrupti. Libero maxime non fuga illum cumque.",
+            "Voluptatibus quidem natus reprehenderit dicta officia dolor veritatis incidunt qui, sit nisi fuga soluta. Vero deleniti autem et adipisci nisi voluptates dolores eos ipsam! Consequuntur iure eos nam repudiandae vero?",
+            "Una vez tienes el unicornio de las piernas consequatur repellat error, repudiandae vel necessitatibus praesentium a cum, quae similique mollitia ipsum numquam aliquam fugiat vero. Facere delectus aspernatur explicabo quas omnis quisquam, voluptates cum maiores.",
+            "Hic, dolores reiciendis laborum veritatis nisi recusandae labore cupiditate vero quos asperiores dolor dolorem architecto laudantium voluptatem, sequi possimus ad, illo in incidunt praesentium obcaecati sed quasi! Alias, at reprehenderit."
+          ],
+          "category": {
+            "name": "Platos principales"
+          }
+        },
+        {
+          "name": "Galletas",
+          "duration": 20,
+          "servings": 78,
+          "img": "https://cdn.pixabay.com/photo/2020/11/16/17/03/cookies-5749589_960_720.jpg",
+          "description": "Las galletas de la abuela, dolor sit amet consectetur adipisicing elit. Officiis illo fugit nulla officia dicta, cum reprehenderit voluptatem sunt veritatis consequuntur deleniti. Sed explicabo suscipit fugit perspiciatis corporis enim ea dolor.",
+          "ingredients": [
+            "2 tazas de harina (280 gramos)",
+            "5 taza de azúcar ¡cuidado!",
+            "125 gramos de mantequilla.",
+            "1 huevo.",
+            "1 cucharadita de esencia de vainilla (opcional)",
+            "1 tarro de dulce de leche o virutas de colores para decorar."
+          ],
+          "steps": [
+            "por internet, consectetur adipisicing elit. Voluptate doloribus nemo eaque consequuntur laudantium amet recusandae, in autem! Beatae quos assumenda consequuntur modi a sed quasi architecto deserunt cumque porro.",
+            "Voluptatem non sunt sint! Deleniti, hic culpa, voluptate sequi qui, architecto blanditiis voluptates nobis incidunt commodi in. Ipsam non mollitia pariatur minus odio dolor nisi ab, a voluptatibus odit itaque.",
+            "Deserunt vel reprehenderit dicta atque praesentium in omnis sint ex sit adipisci totam aliquid quae ullam dignissimos minus voluptates eum beatae voluptatum quam, tempore itaque ut explicabo quo? Fugiat, quos.",
+            "Quisquam, nesciunt magni perspiciatis non amet delectus molestias eos culpa explicabo magnam consequatur earum officia harum beatae natus, esse qui. Provident neque harum accusantium nostrum veniam, iste quaerat hic similique?",
+            "Repudiandae modi laborum ut, similique vel neque rem, et adipisci magnam commodi maiores, nihil possimus reiciendis vitae quae iste corporis expedita magni? Ex, ad cum aliquam sequi beatae expedita soluta."
+          ],
+          "category": {
+            "name": "Postres"
+          }
+        },
+        {
+          "name": "Costillas",
+          "duration": 5,
+          "servings": 1,
+          "img": "https://cdn.pixabay.com/photo/2020/06/25/21/24/spare-ribs-5340942_960_720.jpg",
+          "description": "Las costillas vienen de un animal mas pequeno con mas patas consectetur adipisicing elit. Sequi suscipit accusantium saepe aliquam deleniti voluptate est veniam praesentium voluptatem repellendus nostrum, debitis delectus eligendi, quidem dolores ducimus nam provident asperiores?",
+          "ingredients": [
+            "Costilla de Cerdo",
+            "Salsa Barbacoa al gusto",
+            "Pimentón dulce ",
+            "Hierbas"
+          ],
+          "steps": [
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus ut at, quasi ad quam, sed blanditiis a totam, eius ratione maiores corrupti reprehenderit quis ullam aliquam ex iusto! Nostrum, excepturi?",
+            "Los Mamuts ya no existen. Ipsum impedit, magnam mollitia eos repellendus veniam necessitatibus iste, unde saepe ex tempore facilis neque odio asperiores, fugiat repellat. Impedit reiciendis vitae exercitationem numquam consequuntur aperiam vel."
+          ],
+          "category": {
+            "name": "Platos principales"
+          }
+        },
+        {
+          "name": "Pollo",
+          "duration": 20,
+          "servings": 4,
+          "img": "https://cdn.pixabay.com/photo/2021/01/27/13/08/chicken-5954894_960_720.jpg",
+          "description": "El pollo maiores totam saepe voluptate quibusdam ipsum. Provident deserunt dignissimos debitis ut sequi, qui dolores.",
+          "ingredients": [
+            "1 cucharadita de ajo en polvo, para el marinado.",
+            "1 cucharadita de mostaza, para el marinado.",
+            "suficiente de sal.",
+            "suficiente de pimienta.",
+            "6 muslos de pollo, con piel."
+          ],
+          "steps": [
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus ut at, quasi ad quam, sed blanditiis a totam, eius ratione maiores corrupti reprehenderit quis ullam aliquam ex iusto! Nostrum, excepturi?",
+            "Los Mamuts ya no existen. Ipsum impedit, magnam mollitia eos repellendus veniam necessitatibus iste, unde saepe ex tempore facilis neque odio asperiores, fugiat repellat. Impedit reiciendis vitae exercitationem numquam consequuntur aperiam vel."
+          ],
+          "category": {
+            "name": "Platos principales"
+          }
+        },
+        {
+          "name": "Pasta",
+          "duration": 180,
+          "servings": 20,
+          "img": "https://cdn.pixabay.com/photo/2018/07/18/19/12/spaghetti-3547078_960_720.jpg",
+          "description": "La típica pasta de soltero pero con camarones",
+          "ingredients": [
+            "1 lb de pasta",
+            "2 cucharadas de aceite de oliva",
+            "4 dientes de ajo, finamente picados",
+            "1 cebolla blanca, finamente picada",
+            "1 lb de camarones",
+            "2 cucharadas de pasta de tomate"
+          ],
+          "steps": [
+            "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus ut at, quasi ad quam, sed blanditiis a totam, eius ratione maiores corrupti reprehenderit quis ullam aliquam ex iusto! Nostrum, excepturi?",
+            "Los Mamuts ya no existen. Ipsum impedit, magnam mollitia eos repellendus veniam necessitatibus iste, unde saepe ex tempore facilis neque odio asperiores, fugiat repellat. Impedit reiciendis vitae exercitationem numquam consequuntur aperiam vel."
+          ],
+          "category": {
+            "name": "Platos principales"
+          }
+        },
+        {
+          "name": "Sopa de calabaza",
+          "duration": 20,
+          "servings": 3,
+          "img": "https://cdn.pixabay.com/photo/2020/09/26/20/37/soup-5605053_960_720.jpg",
+          "description": "blab bla bla",
+          "ingredients": [
+            "calabaza",
+            "agua",
+            "sal"
+          ],
+          "steps": [
+            "Temporibus ipsum, facere cumque officia cum nostrum nemo a. Molestias maiores consequuntur atque possimus accusantium velit pariatur minima at modi enim inventore, saepe aspernatur perspiciatis mollitia facilis, praesentium suscipit voluptates!",
+            "litia molestias. Nemo illum id minima! Consequuntur libero pariatur ipsum obcaecati, expedita veniam? Totam, consequatur."
+          ],
+          "category": {
+            "name": "Sopas"
+          }
+        },
+        {
+          "name": "Avena con frutas",
+          "duration": 15,
+          "servings": 1,
+          "img": "https://cdn.pixabay.com/photo/2018/02/27/18/41/muesli-3186256_960_720.jpg",
+          "description": "es avena",
+          "ingredients": [
+            "avena",
+            "fresas",
+            "bananos"
+          ],
+          "steps": [
+            "Temporibus ipsum, facere cumque officia cum nostrum nemo a. Molestias maiores consequuntur atque possimus accusantium velit pariatur minima at modi enim inventore, saepe aspernatur perspiciatis mollitia facilis, praesentium suscipit voluptates!"
+          ],
+          "category": {
+            "name": "Desayunos"
+          }
+        }
+      ]
+    }
+  }
