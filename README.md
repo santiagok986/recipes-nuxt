@@ -2,7 +2,9 @@
 Nuxt 2 + Strapi 3
 
 Node version <16 
+
 Run backend
+
 # backend
 
 cd path/to/folder/backend
@@ -17,7 +19,9 @@ username : demo@demo.ca
 
 password : Demo1234
 
+
 Run Frontend
+
 # frontend
 
 cd path/to/folder/frontend
